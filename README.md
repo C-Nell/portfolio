@@ -19,7 +19,7 @@ Platform and automation engineer with enterprise experience designing and suppor
        width="70">
 </a>
 
-#### Internal Revenue Service  
+#### [Internal Revenue Service](https://www.irs.gov)
 **IT Specialist**  
 November 2022 – Present
 
@@ -40,7 +40,7 @@ November 2022 – Present
        width="70">
 </a>
 
-#### EY  
+#### [EY](https://www.ey.com/en_us)  
 **Full Stack Software Engineer**  
 February 2022 – September 2022
 
@@ -58,7 +58,7 @@ February 2022 – September 2022
        width="90">
 </a>
 
-#### Zip Code Wilmington  
+#### [Zip Code Wilmington](https://zipcodewilmington.com/)  
 **Student Software Engineer**  
 October 2021 – January 2022
 
