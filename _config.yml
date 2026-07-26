@@ -1,3 +1,42 @@
-theme: jekyll-theme-architect
-title: Carnell Poteat's Portfolio
-description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-cayman
+
+title: "Carnell Poteat"
+description: "IT Specialist specializing in automation, PowerShell, Ansible, Windows Server, and DevOps."
+
+url: "https://c-nell.github.io"
+baseurl: "/portfolio"
+
+author:
+  name: "Carnell Poteat"
+  email: "nellp7@yahoo.com"
+  linkedin: "https://www.linkedin.com/in/carnellpoteat"
+  github: "https://github.com/C-Nell"
+
+show_downloads: false
+
+github:
+  is_project_page: true
+  repository_url: "https://github.com/C-Nell/portfolio"
+  repository_name: "portfolio"
+  owner_url: "https://github.com/C-Nell"
+  owner_name: "Carnell Poteat"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: "Carnell Poteat"
+
+exclude:
+  - README-local.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
